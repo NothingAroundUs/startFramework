@@ -1,0 +1,8 @@
+.form-control {
+  outline: none;
+  box-shadow: none;
+}
+
+.btn-disabled-success {
+  background-color: rgba(45, 177, 137, 0.7);
+}

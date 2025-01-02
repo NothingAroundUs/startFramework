@@ -1,0 +1,14 @@
+.bi-plus-lg {
+  font-size: 100px !important;
+  font-weight: 900 !important;
+}
+.overlay {
+  background-color: #1abc9ce6;
+  opacity: 0;
+  cursor: pointer;
+  transition: .6s opacity
+}
+
+.overlay:hover {
+  opacity: 1
+}
